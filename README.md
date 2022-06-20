@@ -1,4 +1,4 @@
-a) Create a products page to show the GraphQL fetched products in cards with appropriate product data(name, price, pictures, etc.)
+<!-- a) Create a products page to show the GraphQL fetched products in cards with appropriate product data(name, price, pictures, etc.)
 Since my Graphql is not ready i made a static data at src/data.js and it fecting everything correctly
 
 
@@ -16,4 +16,4 @@ I will share the link on how to view it at github.
 
 My lateness is because i was sick but am fine now.
 
-I will be glad if more time is given so i will get the API ready and use Graphql to fetch it to the FE.
+I will be glad if more time is given so i will get the API ready and use Graphql to fetch it to the FE. -->
